@@ -1,0 +1,6 @@
+/proj/mercharp/jane/models/GOSH/src/utils/cnpy/lib/libcnpy.so
+/proj/mercharp/jane/models/GOSH/src/utils/cnpy/lib/libcnpy.a
+/proj/mercharp/jane/models/GOSH/src/utils/cnpy/include/cnpy.h
+/proj/mercharp/jane/models/GOSH/src/utils/cnpy/bin/mat2npz
+/proj/mercharp/jane/models/GOSH/src/utils/cnpy/bin/npy2mat
+/proj/mercharp/jane/models/GOSH/src/utils/cnpy/bin/npz2mat
