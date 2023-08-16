@@ -5,7 +5,7 @@ This repository provides support for downloading and preprocessing datasets, bui
 ### Installation
 Our experiments were conducted on a Linux machine with 32 cores, (maximum) 100GB RAM, and a V100 GPU. We used the following packages/frameworks:
 1. Python/3.7
-	For convenience regarding Python packages, we provide [environment.yml](environment.yml). Create a conda environment called `specsumm` with `conda env create -f environment.yml`.
+	For convenience regarding Python packages, we provide [environment.yml](environment.yml). Create a conda environment called `postprocess_gnn` with `conda env create -f environment.yml`.
 2. GCC/12.2.0, Snap/6.0 (`DeepWalk`).
 	Download the source code from [here](https://snap.stanford.edu/snap/download.html) and [install](https://snap.stanford.edu/snap/install.html) into `./embeddings/snap`.
 
